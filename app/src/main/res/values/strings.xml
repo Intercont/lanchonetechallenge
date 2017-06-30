@@ -1,0 +1,16 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">LanchoneteChallenge</string>
+
+    <string name="content_authority">com.dextra_sw.igor_fraga.lanchonetechallenge</string>
+
+    <!--Formats -->
+    <string name="format_price">R$<xliff:g id="price">%1.2f</xliff:g></string>
+
+    <string name="btn_edit_ingredients">Alterar Ingredientes</string>
+    <string name="btn_save_ingredients">Salvar Alterações</string>
+    <string name="select_ingredient_instruction">Selecione o ingrediente abaixo</string>
+    <string name="special_for_you"> - do seu jeito</string>
+    <string name="btn_edit_add_to_cart">Adicionar ao Carrinho</string>
+    <string name="promo_list_descr">Promoções</string>
+    <string name="cart_checkout_descr">Carrinho</string>
+</resources>
